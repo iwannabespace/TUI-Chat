@@ -1,0 +1,11 @@
+/home/iwannabespace/Dev/Rust/tui-chat/tui-client/target/debug/deps/bitflags-01304c96c061c275.d: /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/lib.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/iter.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/parser.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/traits.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/public.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/internal.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/external.rs
+
+/home/iwannabespace/Dev/Rust/tui-chat/tui-client/target/debug/deps/libbitflags-01304c96c061c275.rmeta: /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/lib.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/iter.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/parser.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/traits.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/public.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/internal.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/external.rs
+
+/home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/lib.rs:
+/home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/iter.rs:
+/home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/parser.rs:
+/home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/traits.rs:
+/home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/public.rs:
+/home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/internal.rs:
+/home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.6.0/src/external.rs:

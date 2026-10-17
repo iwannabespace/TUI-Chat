@@ -1,0 +1,11 @@
+/home/iwannabespace/Dev/Rust/tui-chat/tui-server/target/debug/deps/tcp_server-dabedbfcc35ca1a0.d: /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/lib.rs /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/server.rs /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/client.rs /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/custom_types.rs /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/logger.rs
+
+/home/iwannabespace/Dev/Rust/tui-chat/tui-server/target/debug/deps/libtcp_server-dabedbfcc35ca1a0.rlib: /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/lib.rs /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/server.rs /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/client.rs /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/custom_types.rs /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/logger.rs
+
+/home/iwannabespace/Dev/Rust/tui-chat/tui-server/target/debug/deps/libtcp_server-dabedbfcc35ca1a0.rmeta: /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/lib.rs /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/server.rs /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/client.rs /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/custom_types.rs /home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/logger.rs
+
+/home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/lib.rs:
+/home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/server.rs:
+/home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/client.rs:
+/home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/custom_types.rs:
+/home/iwannabespace/.cargo/git/checkouts/tcp-server-library-08569b2098a3688a/8d08664/src/logger.rs:
