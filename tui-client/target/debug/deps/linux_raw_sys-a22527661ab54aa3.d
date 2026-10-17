@@ -1,9 +1,0 @@
-/home/iwannabespace/Dev/Rust/tui-chat/tui-client/target/debug/deps/linux_raw_sys-a22527661ab54aa3.d: /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/lib.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/elf.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/x86_64/errno.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/x86_64/general.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs
-
-/home/iwannabespace/Dev/Rust/tui-chat/tui-client/target/debug/deps/liblinux_raw_sys-a22527661ab54aa3.rmeta: /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/lib.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/elf.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/x86_64/errno.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/x86_64/general.rs /home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs
-
-/home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/lib.rs:
-/home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/elf.rs:
-/home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/x86_64/errno.rs:
-/home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/x86_64/general.rs:
-/home/iwannabespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs:
